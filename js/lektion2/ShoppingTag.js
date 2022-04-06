@@ -1,4 +1,4 @@
-class ShoppingTag extends React.Component {
+vclass ShoppingTag extends React.Component {
 
   constructor() {
     super();
